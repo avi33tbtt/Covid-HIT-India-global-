@@ -2,7 +2,7 @@
 Links to useful resources related to covid that may be useful for public, patients, and care provider and analysis of basis of evidence around them.  
   
   
-1- [Mask] ()  
+1- [Mask]()  
 2- Clinical-Medical Educational Resources for Covid  
 3- Blood plasma donor and search  
 4- Contact Tracing  
